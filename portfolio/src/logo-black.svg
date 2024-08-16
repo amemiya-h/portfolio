@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58.92 68.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="LINE">
+      <polygon class="cls-1" points="35.41 10.31 29.46 0 23.51 10.31 23.51 22.22 29.46 32.53 35.41 22.22 35.41 10.31"/>
+    </g>
+    <g id="LINE-2" data-name="LINE">
+      <polygon class="cls-1" points="22.22 22.96 11.91 17.01 0 17.01 5.95 27.32 16.26 33.27 28.17 33.27 22.22 22.96"/>
+    </g>
+    <g id="LINE-3" data-name="LINE">
+      <polygon class="cls-1" points="16.26 34.76 5.95 40.71 0 51.02 11.91 51.02 22.22 45.07 28.17 34.76 16.26 34.76"/>
+    </g>
+    <g id="LINE-4" data-name="LINE">
+      <polygon class="cls-1" points="23.51 45.81 23.51 57.72 29.46 68.03 35.41 57.72 35.41 45.81 29.46 35.5 23.51 45.81"/>
+    </g>
+    <g id="LINE-5" data-name="LINE">
+      <polygon class="cls-1" points="36.7 45.07 47.01 51.02 58.92 51.02 52.96 40.71 42.65 34.76 30.75 34.76 36.7 45.07"/>
+    </g>
+    <g id="LINE-6" data-name="LINE">
+      <polygon class="cls-1" points="42.65 33.27 52.96 27.32 58.92 17.01 47.01 17.01 36.7 22.96 30.75 33.27 42.65 33.27"/>
+    </g>
+    <g id="LWPOLYLINE">
+      <path class="cls-1" d="M46.47,16.46c-2.89-2.8-6.44-4.85-10.31-5.95v1.55c3.34,1.02,6.41,2.79,8.97,5.18l1.34-.78Z"/>
+    </g>
+    <g id="LWPOLYLINE-2" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M22.76,10.51c-3.88,1.1-7.42,3.15-10.31,5.95l1.34,.78c2.56-2.39,5.62-4.16,8.97-5.18v-1.55Z"/>
+    </g>
+    <g id="LWPOLYLINE-3" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M5.75,28.06c-.98,3.91-.98,8,0,11.91l1.34-.78c-.79-3.41-.79-6.95,0-10.35l-1.34-.78Z"/>
+    </g>
+    <g id="LWPOLYLINE-4" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M12.45,51.57c2.89,2.8,6.44,4.85,10.31,5.95v-1.55c-3.34-1.02-6.41-2.79-8.97-5.18l-1.34,.78Z"/>
+    </g>
+    <g id="LWPOLYLINE-5" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M36.16,57.52c3.88-1.1,7.42-3.15,10.31-5.95l-1.34-.78c-2.56,2.39-5.62,4.16-8.97,5.18v1.55Z"/>
+    </g>
+    <g id="LWPOLYLINE-6" data-name="LWPOLYLINE">
+      <path class="cls-1" d="M53.16,39.97c.98-3.91,.98-8,0-11.91l-1.34,.78c.79,3.41,.79,6.95,0,10.35l1.34,.78Z"/>
+    </g>
+  </g>
+</svg>
