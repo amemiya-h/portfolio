@@ -4,7 +4,7 @@ This is a personal portfolio website built using React. It showcases my skills, 
 
 ## Demo
 
-You can view the live demo of the portfolio website [here](https://your-portfolio-site-url.com).
+You can view the live demo of the portfolio website [here](https://amemiya-h.github.io/portfolio/).
 
 ## Technologies Used
 
