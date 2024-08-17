@@ -1,11 +1,14 @@
-#navbar {
+.navbar {
     min-width: 300px;
     left: 0;
-    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
 }
 
 .nav-header{
-    height: 50px;   
+    height: 50px;
+    flex: 0;
     color: black;
     text-align: center;
     font-size: 1.8em;

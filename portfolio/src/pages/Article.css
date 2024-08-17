@@ -1,0 +1,12 @@
+.article-container{
+    display: flex;
+    height: 100%;
+}
+
+.article-navbar{
+    flex: 0;
+}
+
+.article-content{
+    flex: 1;
+}

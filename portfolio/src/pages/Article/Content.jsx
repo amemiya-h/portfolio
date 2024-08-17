@@ -1,11 +1,11 @@
-import './Article.css'
+import './Content.css'
 
-function Article() {
+function Content() {
     return(
-        <div className='content'>
-            <div className="section" id="Introduction">
-                <div className='article-header'>Introduction</div>
-                <div className='article-main'>
+        <div className='article-content'>
+            <div className="article-content-section" id="Introduction">
+                <div className='article-content-header'>Introduction</div>
+                <div className='article-content-main'>
                     <p>
                     JavaScript is a cross-platform, object-oriented scripting language.
                     It is a small and lightweight language. Inside a host environment
@@ -41,9 +41,9 @@ function Article() {
                 </div>
             </div>
 
-            <div className="section" id="What_you_should_already_know">
-                <div className='article-header'>What you should already know</div>
-                <div className='article-main'>
+            <div className="article-content-section" id="What_you_should_already_know">
+                <div className='article-content-header'>What you should already know</div>
+                <div className='article-content-main'>
                     <p>This guide assumes you have the following basic background:</p>
 
                     <ul>
@@ -60,9 +60,9 @@ function Article() {
                 </div>
             </div>
 
-            <div className="section" id="JavaScript_and_Java">
-                <div className='article-header'>JavaScript and Java</div>
-                <div className='article-main'>
+            <div className="article-content-section" id="JavaScript_and_Java">
+                <div className='article-content-header'>JavaScript and Java</div>
+                <div className='article-content-main'>
                     <p>
                     JavaScript and Java are similar in some ways but fundamentally
                     different in some others. The JavaScript language resembles Java but
@@ -93,9 +93,9 @@ function Article() {
                 </div>
             </div>
 
-            <div className="section" id="Variables">
-                <div className='article-header'>Variables</div>
-                <div className='article-main'>
+            <div className="article-content-section" id="Variables">
+                <div className='article-content-header'>Variables</div>
+                <div className='article-content-main'>
                     <p>
                     You use variables as symbolic names for values in your application.
                     The names of variables, called identifiers, conform to certain rules.
@@ -116,9 +116,9 @@ function Article() {
                 </div>
             </div>
 
-            <div className="section" id="Declaring_variables">
-                <div className='article-header'>Declaring variables</div>
-                <div className='article-main'>
+            <div className="article-content-section" id="Declaring_variables">
+                <div className='article-content-header'>Declaring variables</div>
+                <div className='article-content-main'>
                     You can declare a variable in three ways:
                     <p>
                     With the keyword var. For example, <code>var x = 42.</code> This
@@ -140,4 +140,4 @@ function Article() {
     );
 }
 
-export default Article
+export default Content
