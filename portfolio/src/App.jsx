@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import Article from './pages/Article';
+/*import Article from './pages/Article';*/
 import Maintenance from './pages/Maintenance';
 
 import Header from './components/Header'
